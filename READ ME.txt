@@ -1,0 +1,22 @@
+Scroll Label by: (Arc) Web Design
+
+
+
+Example to use:
+---------------------------------------------------
+In Form_Load
+ScrollLabel1.StartIt
+ScrollLabel1.Speed (40)
+ScrollLabel1.Movement (40)
+
+Startit starts the timer
+Speed adjusts the loop speed
+Movement adjusts the amount of movement per loop
+
+You can set the scroll to a wide array of speeds and looks by fooling with
+the Speed and movement Proporties.
+----------------------------------------------------
+
+You can set your own picture by using the Picture proportie
+Adjust the Fontsize, name, Caption, Alignment ect.. the same
+as with any label.
